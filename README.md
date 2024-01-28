@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VishalSingh122
+- 👋 Hi, I’m Vishal Kumar Singh
 - 👀 I’m interested in creating, developing, inspiring
 - 🌱 I’m currently a student of Civil Engineering 
 - 💞️ I’m looking to learn some programming languages and I love Web Development
